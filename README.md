@@ -1,17 +1,12 @@
-# Oura OAuth Documentation
+# Public Documentation
 
-This repository hosts minimal public documentation required for OAuth
-application registration with the Oura API.
+Public-facing documentation for personal projects by Jake Bower-Bir.
 
-The application **Jake Health Tracking Automation** is a personal tool
-used by the owner (Jake Bower-Bir) to retrieve health data from the
-Oura API for personal analysis.
+This repository hosts minimal websites, privacy policies, and terms of
+service required for API integrations and public-facing project pages.
 
-This repository hosts:
+## Projects
 
-- [Landing page](index.md)
-- [Privacy Policy](privacy.md)
-- [Terms of Service](terms.md)
-
-The application is **not a commercial product**, **not a public service**,
-and **not intended for external users**.
+| Project | Description |
+|---|---|
+| [Health Tracking](health-tracking/) | Personal Oura API integration for sleep, readiness, and activity data |
